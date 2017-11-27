@@ -40,8 +40,8 @@ class Flag extends Widget
             }
 
             $this->register();
-            echo Html::beginTag('span', $this->options);
-            echo Html::endTag('span');
+            echo Html::beginTag($this->tag, $this->options);
+            echo Html::endTag($this->tag);
 
         }
     }
