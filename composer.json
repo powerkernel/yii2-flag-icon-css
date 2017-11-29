@@ -1,5 +1,5 @@
 {
-    "name": "modernkernel/yii2-flag-icon-css",
+    "name": "powerkernel/yii2-flag-icon-css",
     "description": "flag-icon-css extension for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"," flag-icon-css"],
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Harry Tang",
-            "email": "harry@modernkernel.com"
+            "email": "harry@powerkernel.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "modernkernel\\flagiconcss\\": ""
+            "powerkernel\\flagiconcss\\": ""
         }
     }
 }
