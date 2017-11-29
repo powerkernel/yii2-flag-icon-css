@@ -1,18 +1,18 @@
 <?php
 /**
- * @author Harry Tang <harry@modernkernel.com>
- * @link https://modernkernel.com
- * @copyright Copyright (c) 2016 Modern Kernel
+ * @author Harry Tang <harry@powerkernel.com>
+ * @link https://powerkernel.com
+ * @copyright Copyright (c) 2017 Power Kernel
  */
 
-namespace modernkernel\flagiconcss;
+namespace powerkernel\flagiconcss;
 
 
 use yii\web\AssetBundle;
 
 /**
  * Class FlagiconcssAsset
- * @package modernkernel\flagiconcss
+ * @package powerkernel\flagiconcss
  */
 class FlagiconcssAsset extends AssetBundle
 {
