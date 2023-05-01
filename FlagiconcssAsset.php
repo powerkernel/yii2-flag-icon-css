@@ -16,10 +16,8 @@ use yii\web\AssetBundle;
  */
 class FlagiconcssAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/flag-icon-css';
+    // public $sourcePath = '@bower/flag-icon-css';
     public $css = [
-        'css/flag-icon.min.css',
+        'https://cdn.jsdelivr.net/npm/flag-icon-css@4.1.7/css/flag-icons.min.css',
     ];
-
-
 } 
